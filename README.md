@@ -1,6 +1,6 @@
 # Hey there, Internet Wanderer! 👋 I'm Aniefon Umanah!
 
-![Software Developer | Backend & Frontend Roles | Leader](banner.png)
+![Software Developer | Backend & Frontend Roles | Leader]
 
 ## Who am I? 🤔
 
@@ -41,4 +41,5 @@ Feel like going on an adventure? Let's embark on a quest to code the future toge
 - [Twitter](https://twitter.com/your_twitter_handle) 🐦
 - [LinkedIn](https://linkedin.com/in/your_linkedin_profile) 💼
 
-Stay hip, stay cool, stay coding! 😎
+Feel free to poke around my repositories, but be careful not to disturb the code, they're a bit skittish 😄
+
