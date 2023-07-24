@@ -38,8 +38,8 @@ I've learned a few spells along the way...
 
 Feel like going on an adventure? Let's embark on a quest to code the future together!
 
-- [Twitter](https://twitter.com/your_twitter_handle) 🐦
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile) 💼
+- [Twitter(X)](https://twitter.com/aniefon_dev) 🐦
+- [LinkedIn](https://linkedin.com/in/aniefon-umanah) 💼
 
 Feel free to poke around my repositories, but be careful not to disturb the code, they're a bit skittish 😄
 
