@@ -4,7 +4,7 @@
 
 ## Who am I? 🤔
 
-Well, I am a wizard at coding, conjuring full-stack spells with JavaScript, PHP, Typescript, VueJs/NuxtJs, Laravel, NodeJs/Express, and a bunch of other potions that no one else can pronounce. I juggle servers, dance with Docker, charm AWS, and git commit like nobody's business!
+Well, I am a wizard at coding, conjuring full-stack spells with JavaScript, PHP, Typescript, VueJs/NuxtJs, Laravel, NodeJs/Express, and a bunch of other portions that no one else can pronounce. I juggle servers, dance with Docker, charm AWS, and git commit like nobody's business!
 
 I hail from Nigeria, the home of Jollof Rice 🍚, and I am armed with a diploma in Computer Science from Akwa Ibom State Polytechnic. But hey, that's just a fancy piece of paper. My real magic comes from a potpourri of trials, errors, and a ton of caffeine.
 
